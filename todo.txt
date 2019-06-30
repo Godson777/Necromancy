@@ -1,0 +1,5 @@
+Finish Ritual Circle Implementation
+Add Ethereal Jaunt Ritual (Temporarily sets a player to spectator mode)
+Add Resurrection Spell, Brings a spectator back to survival mode
+Add Phylactery
+
